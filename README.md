@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datawvr
 - 👀 I’m interested in data science, analytics and visualization
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on displaying projects here
 - ⚡ The first programming language I learned was R 
 
 <!---
